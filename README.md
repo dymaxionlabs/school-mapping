@@ -11,7 +11,7 @@ preliminary version is published.
 
 Please report any bugs and enhancement ideas using the GitHub issue tracker:
 
-  https://github.com/dymaxionlabs/ap-latam/issues
+  https://github.com/dymaxionlabs/school-mapping/issues
 
 
 ## Help wanted
